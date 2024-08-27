@@ -5,7 +5,7 @@
         "id": "library",
         "title": "Library",
         "environments": [ "edit" ],
-        "url": "https://main--ey-sales-pursuit--jihuang-adobe.hlx.page/tools/sidekick/library.html",
+        "url": "https://sidekick-library--aem-block-collection--adobe.aem.page/tools/sidekick/library.html",
         "includePaths": [ "**.docx**" ]
       },
       {
