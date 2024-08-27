@@ -250,10 +250,16 @@ main > .section:first-of-type {
 
 /* section metadata */
 main .section.light,
-main .section.highlight {
-  background-color: var(--light-color);
+main .section.highlight,
+main .section.spacer {
   padding: 32px 0px;
 }
+
+main .section.light,
+main .section.highlight {
+  background-color: var(--light-color);
+}
+
 
 .library-metadata {
   margin-bottom: 75px;
