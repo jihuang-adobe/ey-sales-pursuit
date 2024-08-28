@@ -27,8 +27,8 @@
       },
       {
         "id": "submit-to-workfront",
-        "title": "Submit to Workfront",
-        "url": "https://experience.adobe.com/aem/generate-variations",
+        "title": "Continue Task",
+        "url": "https://adobedemoamericas423-16102301.testdrive.workfront.com/document/66ce2b890007b7af42b98d3efaa277fa/proof/163095/view/",
         "passConfig": true,
         "environments": [ "preview", "edit" ],
         "includePaths": ["**.docx**"]
