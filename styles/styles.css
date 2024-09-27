@@ -260,6 +260,17 @@ main .section.highlight {
   background-color: var(--light-color);
 }
 
+main .section.overlay .cards > ul > li {
+  position: relative;
+}
+
+main .section.overlay .cards .cards-card-body {
+  position: absolute;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.6);
+  margin: 0px;
+  padding: 16px;
+}
 
 .library-metadata {
   margin-bottom: 75px;
