@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: [https://main--ey-sales-pursuit--jihuang-adobe.hlx.page](https://main--ey-sales-pursuit--jihuang-adobe.hlx.page/)
-- Live: [https://main--ey-sales-pursuit--jihuang-adobe.hlx.live](https://main--ey-sales-pursuit--jihuang-adobe.hlx.live/)
+- Preview: [https://main--ey-sales-pursuit--jihuang-adobe.aem.page](https://main--ey-sales-pursuit--jihuang-adobe.aem.page/)
+- Live: [https://main--ey-sales-pursuit--jihuang-adobe.aem.live](https://main--ey-sales-pursuit--jihuang-adobe.aem.live/)
 
 ## Installation
 
